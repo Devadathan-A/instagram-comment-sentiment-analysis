@@ -1,0 +1,6 @@
+Flask
+pandas
+matplotlib
+nltk
+textblob
+emoji
